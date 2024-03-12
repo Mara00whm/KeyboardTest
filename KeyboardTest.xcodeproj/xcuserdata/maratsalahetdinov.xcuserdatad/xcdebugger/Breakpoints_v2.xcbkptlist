@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "57B0CED5-F148-4BAE-A6B2-443B055D29F6"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "234142DB-7345-4CF0-9180-DA5E9FC93FC8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KeyboardTest/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "131"
+            endingLineNumber = "131"
+            landmarkName = "settings()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "234142DB-7345-4CF0-9180-DA5E9FC93FC8 - 154f15fcfd9a3cb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KeyboardTest.ViewController.settings() -&gt; ()"
+                  moduleName = "KeyboardTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maratsalahetdinov/Desktop/KeyboardTest/KeyboardTest/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "121"
+                  endingLineNumber = "121"
+                  offsetFromSymbolStart = "960">
+               </Location>
+               <Location
+                  uuid = "234142DB-7345-4CF0-9180-DA5E9FC93FC8 - 154f15fcfd9a3ea"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KeyboardTest.ViewController.settings() -&gt; ()"
+                  moduleName = "KeyboardTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maratsalahetdinov/Desktop/KeyboardTest/KeyboardTest/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "122"
+                  endingLineNumber = "122"
+                  offsetFromSymbolStart = "1252">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8DFE99BB-F70B-426D-A913-8C26379987CF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KeyboardTest/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "161"
+            endingLineNumber = "161"
+            landmarkName = "didSend(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "61ACF4FF-2178-49A8-8915-3754CCE917B2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KeyboardTest/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "159"
+            endingLineNumber = "159"
+            landmarkName = "didSend(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "42844D87-EF2B-4537-8A7A-04C3B328B049"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KeyboardTest/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "164"
+            endingLineNumber = "164"
+            landmarkName = "didBeginEditing()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "42844D87-EF2B-4537-8A7A-04C3B328B049 - 81c72db06b9f80a0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KeyboardTest.ViewController.didBeginEditing() -&gt; ()"
+                  moduleName = "KeyboardTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maratsalahetdinov/Desktop/KeyboardTest/KeyboardTest/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "148"
+                  endingLineNumber = "148"
+                  offsetFromSymbolStart = "440">
+               </Location>
+               <Location
+                  uuid = "42844D87-EF2B-4537-8A7A-04C3B328B049 - 81c72db06b9f80e6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KeyboardTest.ViewController.didBeginEditing() -&gt; ()"
+                  moduleName = "KeyboardTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maratsalahetdinov/Desktop/KeyboardTest/KeyboardTest/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "150"
+                  endingLineNumber = "150"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "42844D87-EF2B-4537-8A7A-04C3B328B049 - 81c72db06b9f9d2d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KeyboardTest.ViewController.didBeginEditing() -&gt; ()"
+                  moduleName = "KeyboardTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maratsalahetdinov/Desktop/KeyboardTest/KeyboardTest/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "175"
+                  endingLineNumber = "175"
+                  offsetFromSymbolStart = "276">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "238F79CC-68DB-4DB6-AA31-1F4A779B95EC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KeyboardTest/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "150"
+            endingLineNumber = "150"
+            landmarkName = "keyboardWillShow(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
